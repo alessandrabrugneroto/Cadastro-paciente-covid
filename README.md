@@ -1,4 +1,4 @@
 # Cadastro-paciente-covid
-Desenvolvido nalinguagem C
+Desenvolvido na linguagem C
 
 https://alessandrabrugneroto.github.io/Cadastro-paciente-covid/
